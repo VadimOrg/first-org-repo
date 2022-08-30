@@ -3,16 +3,18 @@ import './App.css';
 
 function App() {
   return (
-    <div>
-      <div>
-        <img src={swHeader} alt="Star Wars" />
+    <div className="container">
+      <div className="hero">
+        <img className="img" src={swHeader} alt="Star Wars" />
       </div>
-      <div>
-        <h1>Watch yout favorite movies and TV shows</h1>
-        <p>
+      <div className="textContainer">
+        <h1 className="title">Watch yout favorite movies and TV shows</h1>
+        <p className="text">
           Stream unlimited movies and TV shows on your pc, tablet, mobile and TV
         </p>
-        <a href="#">Get started!</a>
+        <a className="button" href="#">
+          Get started!
+        </a>
       </div>
     </div>
   );
