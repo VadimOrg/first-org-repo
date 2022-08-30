@@ -1,0 +1,51 @@
+.container {
+  padding-bottom: 40px;
+  text-align: center;
+}
+
+.hero {
+  margin-bottom: 30px;
+}
+
+.img {
+  display: block;
+  width: 100%;
+}
+
+.textContainer {
+  font-size: 25px;
+  font-weight: 600;
+  color: #000;
+}
+
+.title {
+  margin-bottom: 20px;
+}
+
+.text {
+  font-size: 18px;
+  font-weight: 500;
+  color: gray;
+}
+
+.button {
+  display: block;
+  width: 100%;
+  max-width: 420px;
+  padding: 10px 20px;
+  border: 1px solid #fff;
+  background-color: blue;
+  border-radius: 10px;
+  outline: none;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.button:hover {
+  cursor: pointer;
+  background-color: #fff;
+  color: blue;
+  border-color: blue;
+}
