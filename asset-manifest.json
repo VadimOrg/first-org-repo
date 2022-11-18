@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/first-org-repo/static/css/main.287f0092.css",
+    "main.js": "/first-org-repo/static/js/main.3e028447.js",
+    "index.html": "/first-org-repo/index.html",
+    "main.287f0092.css.map": "/first-org-repo/static/css/main.287f0092.css.map",
+    "main.3e028447.js.map": "/first-org-repo/static/js/main.3e028447.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.287f0092.css",
+    "static/js/main.3e028447.js"
+  ]
+}
